@@ -1,2 +1,5 @@
 # hello-world-2017
-just another repository
+
+Hi Human, 
+
+I just started this GIt tutorial
